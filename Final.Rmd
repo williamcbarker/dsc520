@@ -1,0 +1,24 @@
+---
+title: "Final Project"
+author: "William Barker"
+date: "2/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Racial profiling with machine learning algorithms in police departments.
+
+Machine learning algorithms looking at online data to show police high risk people and/or locations and targetting predominately lower income/minority neighborhoods.
+
+What types of data do the algorithms look at?
+What types of data lead to the algorithms targetting minorities?
+How were the algorithms designed/set up?
+Could the algorithms be adjusted to be less harmful to lower income communities?
+How exactly have these algorithms changed policing? 
+
+Try to adjust what data the algorithm looks at to make it less problematic.
+
+
