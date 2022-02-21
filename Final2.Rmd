@@ -1,0 +1,21 @@
+---
+title: "Final Project"
+author: "William Barker"
+date: "2/13/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Clean the data set to only show relevant data and then condense that data as much as possible.
+
+What parts of the data set are the most important/relevant?
+What is a reasonable amount of rows in a data frame?
+
+Which data is leading to the problematic targeting of the algorithm is not self evident.
+
+Could look at the data as someone interested in stopping crime vs someone trying to 
+locate problematic data.
+
